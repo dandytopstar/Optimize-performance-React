@@ -81,7 +81,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```shell
-git clone https://github.com/kentcdodds/react-performance.git
+git clone https://github.com/dandytopstar/Optimize-performance-React.git
 cd react-performance
 node setup
 ```
